@@ -1,7 +1,7 @@
 function Login() {
     return (
         <>
-        <div className="h-screen w-screen flex items-center justify-center bg-gray-100">
+        <div className="h-screen w-screen flex items-center justify-center bg-[url('C:\Solutions\Solutions\solutions\src\assets\imagens\Back.png')] bg-cover bg-center">
      <div className="w-100">
         
 
